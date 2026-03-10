@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/TU-USUARIO/portfolio-risk-engine/blob/main/01_portfolio_risk_engine.ipynb)
+
 # Portfolio Risk Engine
 
 This project implements a portfolio risk analysis framework in Python.
