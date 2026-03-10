@@ -1,5 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/guillermodelarosacambra/portfolio-risk-engine/blob/main/01_portfolio_risk_engine.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guillermodelarosadecambra/portfolio-risk-engine/blob/main/01_portfolio_risk_engine.ipynb)
 
 
 # Portfolio Risk Engine
